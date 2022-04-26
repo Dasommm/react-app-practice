@@ -1,0 +1,8 @@
+/*특정 css를 전역적으로 사용하고 싶지 않기 때문에 styles.css라는 파일을 Button.module.css로 바꾼다.
+그리고 class를 통해 해당 css에 접근한다.
+*/
+
+.btn {
+	color: white;
+	background-color: tomato;
+}
